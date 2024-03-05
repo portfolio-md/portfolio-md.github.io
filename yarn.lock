@@ -232,10 +232,10 @@
   dependencies:
     third-party-capital "1.0.20"
 
-"@portfolio.md/builder@0.0.51":
-  version "0.0.51"
-  resolved "https://registry.yarnpkg.com/@portfolio.md/builder/-/builder-0.0.51.tgz#4b5008d96c3f6717c5278c53484b5bfdb14d175a"
-  integrity sha512-D1wTsT5EPNIALvDIuwgIs1pQASs9sP5MCihQHLIBRKGG7Iv0VoC7uR+9oJNwekbmGaAmk9IadVnsJfyZaEZd3A==
+"@portfolio.md/builder@0.0.52":
+  version "0.0.52"
+  resolved "https://registry.yarnpkg.com/@portfolio.md/builder/-/builder-0.0.52.tgz#c0610501d325367e90310ee63febee3e70a565f2"
+  integrity sha512-J5oV7Lf2j3KqHGXfSRMVZiH9BNs+AlEyp2cxZ8uJqqXY4D8ERpY/VbkEp4LGeEWq5k57KBtqCm4rXPgloJpiCg==
   dependencies:
     "@next/third-parties" "^14.1.1"
     "@portfolio.md/components" "0.0.41"
