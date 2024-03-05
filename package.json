@@ -7,6 +7,6 @@
     "build": "portfolio-md build"
   },
   "dependencies": {
-    "@portfolio.md/builder": "*"
+    "@portfolio.md/builder": "0.0.51"
   }
 }
