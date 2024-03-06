@@ -5,6 +5,9 @@ export default {
     title: 'portfolio.md',
     description:
       'Node.js tool which helps to create static portfolio website with resume',
+      verification: {
+        google: 'gVx2WIPNUmdGNPc-btJadTU-kkNt2Q2xnuFU5P9myZY'
+      }
   },
   home: {
     title: 'portfolio.md',
@@ -46,4 +49,7 @@ export default {
   images: {
     logo: 'content/logo.svg',
   },
+  analytics: {
+    gTag: 'G-FG7LK3N1MV'
+  }
 } satisfies CvConfig;
