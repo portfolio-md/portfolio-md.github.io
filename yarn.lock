@@ -232,13 +232,13 @@
   dependencies:
     third-party-capital "1.0.20"
 
-"@portfolio.md/builder@0.0.53":
-  version "0.0.53"
-  resolved "https://registry.yarnpkg.com/@portfolio.md/builder/-/builder-0.0.53.tgz#2d5f53ce7864bcf93f8f0dc086999e7219d4dac0"
-  integrity sha512-rACRuDqa+VPCCS5hU3lO+VDw98f1hN9S/uQwXBibzoxPftQl0oFlug8jQDaOyHwlrkWU2iLXJMzJ4QFuYmnNdQ==
+"@portfolio.md/builder@0.0.54":
+  version "0.0.54"
+  resolved "https://registry.yarnpkg.com/@portfolio.md/builder/-/builder-0.0.54.tgz#68aade3ae76d683a6347d8d7a92be21d872cb631"
+  integrity sha512-OmqsTAig/4QuHFCZvbwT953/cdjxkG1cQ9E40PqFsrA4RgQY58FND3vRhcEqJw3ebM85DagQF8xXLLB4caW12g==
   dependencies:
     "@next/third-parties" "^14.1.1"
-    "@portfolio.md/components" "0.0.41"
+    "@portfolio.md/components" "0.0.42"
     datauri "^4.1.0"
     favicons "^7.1.5"
     highlight.js "^11.9.0"
@@ -255,10 +255,10 @@
     tslib "^2.3.0"
     typescript "~5.3.2"
 
-"@portfolio.md/components@0.0.41":
-  version "0.0.41"
-  resolved "https://registry.yarnpkg.com/@portfolio.md/components/-/components-0.0.41.tgz#1afb0d88c68d1deb6e319208b4b1ca0b3b249f9c"
-  integrity sha512-h6/NLnVR7UVHEfTvNHst83WFkIqPwk2lokWEusbZj7jo+96gVgmyJhBPKAH+cCKNQfgPVgoPwW9mAxH0D/obkw==
+"@portfolio.md/components@0.0.42":
+  version "0.0.42"
+  resolved "https://registry.yarnpkg.com/@portfolio.md/components/-/components-0.0.42.tgz#4c3590244edf95c61cf5a1a3e0f459ab5cba876e"
+  integrity sha512-U3sGYGKeRZha48cclm+iMJHWYbnAn4mc0nDtyBI5RRpHIdobhas/P5dtWPUSDJU65hklUmscmofmKJfpQi6sig==
 
 "@puppeteer/browsers@2.1.0":
   version "2.1.0"
